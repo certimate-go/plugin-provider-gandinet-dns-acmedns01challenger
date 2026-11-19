@@ -1,0 +1,7 @@
+{
+  "plugin.gandinet-dns.name": "Gandi.net",
+  "plugin.gandinet-dns.description": "通过 Gandi.net 完成 ACME DNS-01 验证。",
+  "plugin.gandinet-dns.access.personalAccessToken.label": "Gandi.net Personal Access Token",
+  "plugin.gandinet-dns.access.personalAccessToken.tooltip": "这是什么？请参阅 <a href=\"https://api.gandi.net/docs/authentication/\" target=\"_blank\">https://api.gandi.net/docs/authentication/</a>",
+  "plugin.gandinet-dns.access.personalAccessToken.placeholder": "请输入 Gandi.net Personal Access Token"
+}

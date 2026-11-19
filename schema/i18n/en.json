@@ -1,0 +1,7 @@
+{
+  "plugin.gandinet-dns.name": "Gandi.net",
+  "plugin.gandinet-dns.description": "ACME DNS-01 via Gandi.net.",
+  "plugin.gandinet-dns.access.personalAccessToken.label": "Gandi.net personal access token",
+  "plugin.gandinet-dns.access.personalAccessToken.tooltip": "For more information, see <a href=\"https://api.gandi.net/docs/authentication/\" target=\"_blank\">https://api.gandi.net/docs/authentication/</a>",
+  "plugin.gandinet-dns.access.personalAccessToken.placeholder": "Please enter Gandi.net personal access token"
+}

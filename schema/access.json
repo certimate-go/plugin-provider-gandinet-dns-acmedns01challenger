@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "gandinet",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "personalAccessToken",
+        "valueType": "secret",
+        "labelKey": "plugin.gandinet-dns.access.personalAccessToken.label",
+        "tooltipKey": "plugin.gandinet-dns.access.personalAccessToken.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.gandinet-dns.access.personalAccessToken.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}
